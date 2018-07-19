@@ -1,6 +1,8 @@
-test some other text entry
+test some more changes entry
 
 git remote add origin git@bitbucket.org:jtulip58/testrepo.git
 git clone https://jtulip58@bitbucket.org/jtulip58/testrepo.git
 
 git remote add origin https://jtulip58@bitbucket.org/jtulip58/testrepo.git
+
+and another line
